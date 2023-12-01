@@ -3,7 +3,7 @@
 ## End2end Gen AI deploy through Vercel
 
 ### Demo Video
-[Link]()
+[Vercel AI Template Deployment Demo Video](https://youtu.be/HoMKpNQTjcw)
 
 ### Medium Article
 [Effortlessly Launch Your Website with Vercel AI: A Step-by-Step Guide](https://medium.com/@abraham.jkong/effortlessly-launch-your-website-with-vercel-ai-a-step-by-step-guide-8575145a22b4)
