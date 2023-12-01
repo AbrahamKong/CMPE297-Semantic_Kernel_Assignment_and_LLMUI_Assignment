@@ -5,7 +5,7 @@
 ### Demo Video
 [Link]()
 
-###Medium Article
+### Medium Article
 [Effortlessly Launch Your Website with Vercel AI: A Step-by-Step Guide](https://medium.com/@abraham.jkong/effortlessly-launch-your-website-with-vercel-ai-a-step-by-step-guide-8575145a22b4)
 
 ### Documentation
