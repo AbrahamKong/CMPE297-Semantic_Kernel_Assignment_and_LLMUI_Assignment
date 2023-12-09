@@ -13,14 +13,7 @@
 
 ## Chat Copilot with Semantic Kernal
 
-### Demo Video
-[]()
 
-### Medium Article
-[]()
-
-### Documentation
-[]()
 
 ### Reference
 [chat-copilot](https://github.com/microsoft/chat-copilot/)
