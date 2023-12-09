@@ -12,3 +12,15 @@
 [Steps of deploying from Vercel AI template](https://scribehow.com/shared/Deploying_and_using_Liftoff_an_AI_interview_preparation_tool__HfFIAaPET1mZDG90Rif0cQ)
 
 ## Chat Copilot with Semantic Kernal
+
+### Demo Video
+[]()
+
+### Medium Article
+[]()
+
+### Documentation
+[]()
+
+### Reference
+[chat-copilot](https://github.com/microsoft/chat-copilot/)
